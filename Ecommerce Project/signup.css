@@ -1,0 +1,33 @@
+﻿*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+
+}
+.header{
+    width:100vw;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    /*border:2px solid red;*/
+}
+#content{
+    padding-top:100px;
+    padding-left:10%;
+    padding-right:10%;
+    background-color:azure;
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+}
+#DropDownList1{
+    border:none;
+    outline:none;
+}
+#DropDownList2{
+    border:none;
+    outline:none;
+}
+
+
